@@ -4,9 +4,9 @@ CREATE TABLE products (
   product_naam VARCHAR(15),
   merk_id VARCHAR(255),
   maat_id VARCHAR(255),
-  description TEXT,
   kleur_id VARCHAR(255),
-  prijs NUMERIC(10, 2)
+  prijs NUMERIC(10, 2),
+  description TEXT
 );
 
 CREATE TABLE merken (
