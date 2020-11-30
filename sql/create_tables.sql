@@ -5,6 +5,7 @@ CREATE TABLE products (
   merk_id VARCHAR(255),
   maat_id VARCHAR(255),
   kleur_id VARCHAR(255),
+  kledingtype_id VARCHAR(255),
   prijs NUMERIC(10, 2),
   description TEXT
 );
@@ -22,4 +23,9 @@ CREATE TABLE maten (
 CREATE TABLE kleuren (
   ID SERIAL PRIMARY KEY,
   kleur VARCHAR(30)
+);
+
+CREATE TABLE kledingtype (
+  ID SERIAL PRIMARY KEY,
+  type VARCHAR(30)
 );

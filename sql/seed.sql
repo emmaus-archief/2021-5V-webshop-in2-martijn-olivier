@@ -5,7 +5,7 @@
 --
 
 /*
-insert into products (product_naam, merk_id, maat_id, kleur_id, description, prijs) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
 */
 
 -- Merken
@@ -26,3 +26,7 @@ insert into kleuren (kleur) values ("Zwart");
 insert into kleuren (kleur) values ("Wit");
 insert into kleuren (kleur) values ("Rood");
 insert into kleuren (kleur) values ("Blauw");
+
+-- Kledingtypes
+insert into kledingtype (type) values ("Trui");
+insert into kledingtype (type) values ("Shirt");
