@@ -10,21 +10,25 @@ CREATE TABLE products (
   description TEXT
 );
 
+DROP TABLE IF EXISTS merken;
 CREATE TABLE merken (
   ID SERIAL PRIMARY KEY,
   merk VARCHAR(30)
 );
 
+DROP TABLE IF EXISTS maten;
 CREATE TABLE maten (
   ID SERIAL PRIMARY KEY,
   maat VARCHAR(30)
 );
 
+DROP TABLE IF EXISTS kleuren;
 CREATE TABLE kleuren (
   ID SERIAL PRIMARY KEY,
   kleur VARCHAR(30)
 );
 
+DROP TABLE IF EXISTS kledingtype;
 CREATE TABLE kledingtype (
   ID SERIAL PRIMARY KEY,
   type VARCHAR(30)
