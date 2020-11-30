@@ -4,9 +4,9 @@
 -- want different data? check: https://www.mockaroo.com/910b6c20
 --
 
-/*
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
-*/
+
+
+/* Globale tabellen */
 
 -- Merken
 insert into merken (merk) values ("Nike");
@@ -30,3 +30,11 @@ insert into kleuren (kleur) values ("Blauw");
 -- Kledingtypes
 insert into kledingtype (type) values ("Trui");
 insert into kledingtype (type) values ("Shirt");
+
+
+
+/* insert producten */
+
+/*
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
+*/
