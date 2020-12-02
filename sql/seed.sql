@@ -27,6 +27,7 @@ insert into kleuren (kleur) values ("Wit");
 insert into kleuren (kleur) values ("Rood");
 insert into kleuren (kleur) values ("Blauw");
 insert into kleuren (kleur) values ("Grijs");
+insert into kleuren (kleur) values ("Geel");
 
 -- Kledingtypes
 insert into kledingtype (type) values ("Trui");
@@ -43,15 +44,15 @@ insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, 
 -- 03
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Witte Stone Island hoodie', 3, 3, 3, 1, 150, "Hoodie met capouchon en kangoeroezak, gemaakt van 100% katoen."); -- https://www.debijenkorf.nl/-61640-basic-hoodie-met-merkapplicatie-5697040011-569704001111128?utm_source=google&utm_medium=organic&utm_campaign=organicshopping
 -- 04
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Grijze Puma hoodie essentials fleece', 4, 1, 6, 1, 15, "Puma hoodie met capouchon en kangoeroezak, gemaakt van katoen en polyester.");
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Grijze Puma hoodie essentials fleece', 4, 1, 6, 1, 15, "Puma hoodie met capouchon en kangoeroezak, gemaakt van katoen en polyester."); --https://eu.puma.com/nl/nl/pd/essentials-fleece-herenhoodie/854756.html?dwvar_854756_size=0120&dwvar_854756_color=03&gclid=Cj0KCQiAk53-BRD0ARIsAJuNhpvtJlFEZrVKPBxBCLLp-gTl-h2xVtT3qAcOfZRte__RLsb8L-ky1PQaApGuEALw_wcB
 -- 05
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 5, 3, 1, 1, 15, "Mooie trui");
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Groene daily paper hoodie Alias', 5, 3, 1, 1, 100, "Daily Paper hoodie met capouchon en kangoeroezak, gemaakt van 100% katoen."); --https://www.vipshop.nl/heren/daily-paper-alias-hoodie-groen-9216430008
 -- 06
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 2, 2, 1, 1, 15, "Mooie trui");
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Rode Adidas trui Trefoil', 2, 2, 4, 1, 50, "Adidas Trefoil trui met kangoeroezak, gemaakt van 100% katoen."); --https://www.adidas.nl/trefoil-essentials-sweatshirt/GD2562.html
 -- 07
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 5, 2, 1, 1, 15, "Mooie trui");
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Gele Daily Paper trui Remulti', 5, 2, 7, 1, 80, "Daily Paper hoodie met capouchon en kangoeroezak, gemaakt van 100% katoen"); --https://llaud.nl/dames/sale/truien-vesten/daily-paper-remulti-hoody-unisex-20s1ho50-02-yellow
 -- 08
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 3, 1, 1, 1, 15, "Mooie trui");
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Zwarte Stone Island trui', 3, 1, 2, 1, 200, "Stone Island trui met logo-embleem, gemaakt van 100% katoen"); -- https://www.debijenkorf.nl/-63020-sweater-met-mouwapplicatie-8256040035-825604003512001?utm_campaign=BIJ-NL-HEER-SHOP-NB&utm_content=&utm_source=google&utm_medium=cpc&utm_term=&gclid=Cj0KCQiAk53-BRD0ARIsAJuNhpsGCtTd3uCNUJdvDMpHPHHDXnNBsWV7Hk4hrm4Yh0vV4s60HbsxauYaAjouEALw_wcB&gclsrc=aw.ds
 
 -- Shirts
 -- 09
