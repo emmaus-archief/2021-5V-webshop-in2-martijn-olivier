@@ -36,37 +36,38 @@ insert into kledingtype (type) values ("Shirt");
 /* insert producten */
 
 -- 01
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Zwarte Nike sweater', 1, 2, 2, 1, 45, "Zwarte Nike sweater met groot wit logo op de borst."); -- https://www.wehkamp.nl/nike-sweater-zwart-16303993/
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Zwarte Nike sweater', 1, 2, 2, 1, 45, "Zwarte Nike sweater met groot wit logo op de borst."); -- https://www.wehkamp.nl/nike-sweater-zwart-16303993/
 -- 02
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
 -- 03
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
 -- 04
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', "4", "1", "1", "Mooie trui", 15);
 -- 05
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
 -- 06
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
 -- 07
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
 -- 08
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
 
+-- Shirts
 -- 09
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Wit Stone-Island Shirt', 3, 2, 3, "Katoenen shirt met Logo op de linker borst.", 110); -- https://www.debijenkorf.nl/stone-island-24113-t-shirt-van-katoen-met-logopatch-8256030056-825603005610001
 -- 10
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 1, 1, 2, "Mooie trui", 15);
 -- 11
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 4, 1, 2, "Mooie trui", 15);
 -- 12
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 5, 1, 2, "Mooie trui", 15);
 -- 13
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 1, 1, 2, "Mooie trui", 15);
 -- 14
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 2, 1, 2, "Mooie trui", 15);
 -- 15
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 3, 1, 2, "Mooie trui", 15);
 -- 16
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauwe Trui', 4, 1, 2, "Mooie trui", 15);
 -- 17
 
