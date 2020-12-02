@@ -37,7 +37,6 @@ insert into kledingtype (type) values ("Shirt");
 
 -- 01
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Zwarte Nike sweater', 1, 2, 2, 1, 45, "Zwarte Nike sweater met groot wit logo op de borst."); -- https://www.wehkamp.nl/nike-sweater-zwart-16303993/
-
 -- 02
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
 -- 03
