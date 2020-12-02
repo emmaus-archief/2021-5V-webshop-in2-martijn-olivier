@@ -36,21 +36,21 @@ insert into kledingtype (type) values ("Shirt");
 /* insert producten */
 
 /*
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1,2,3", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Zwarte Nike sweater', 1, 2, 2, 1, 45, "Zwarte Nike sweater met groot wit logo op de borst.");
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 50);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "3", "1", "Mooie trui", 45);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "2", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "2", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "3", "1", "Mooie trui", 15);
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "2", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "3", "1", "Mooie trui", 15);
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "2", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "2", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "3", "1", "Mooie trui", 15);
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "1", "1", "Mooie trui", 15);
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "3", "1", "Mooie trui", 15);
 
 */
