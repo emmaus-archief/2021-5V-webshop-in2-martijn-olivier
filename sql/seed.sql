@@ -44,6 +44,7 @@ insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, pri
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "5", "1", "1", "Mooie trui", 15);
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "3", "1", "1", "Mooie trui", 15);
+
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "2", "1", "1", "Mooie trui", 15);
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "1", "1", "1", "Mooie trui", 15);
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype, prijs, description) values ('Blauwe Trui', "4", "1", "1", "Mooie trui", 15);
