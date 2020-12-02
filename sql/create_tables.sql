@@ -1,7 +1,7 @@
 DROP TABLE IF EXISTS products; 
 CREATE TABLE products (
   ID SERIAL PRIMARY KEY,
-  product_naam VARCHAR(15),
+  product_naam VARCHAR(255),
   merk_id VARCHAR(255),
   maat_id VARCHAR(255),
   kleur_id VARCHAR(255),
