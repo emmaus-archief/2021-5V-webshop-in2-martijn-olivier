@@ -89,11 +89,11 @@
               data.forEach((product) => {
 
                 const clone = template.content.cloneNode(true);
-                var name = product.name.substr(0, 35)
-                if(name.length < product.name.length) {
+                var name = product.product_naam.substr(0, 35)
+                if(name.length < product.product_naam.length) {
                   name = name + '...'
                 }
-                clone.querySelector(".product_title").textContent = product_naam
+                clone.querySelector(".product_title").textContent = name
                 clone.querySelector(".product_description").textContent =`${product.description.substr(0, 100)}...`
                 clone.querySelector(".product_price").textContent += product.price
                 clone.querySelector(".product_code").textContent = product.code
