@@ -56,7 +56,7 @@ insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, 
 
 -- Shirts
 -- 09
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Wit Stone-Island shirt', 3, 2, 3, 2, 110, 'Katoenen shirt met logo op de linker borst.'); -- https://www.debijenkorf.nl/stone-island-24113-t-shirt-van-katoen-met-logopatch-8256030056-825603005610001
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Wit Stone Island shirt', 3, 2, 3, 2, 110, 'Katoenen shirt met logo op de linker borst.'); -- https://www.debijenkorf.nl/stone-island-24113-t-shirt-van-katoen-met-logopatch-8256030056-825603005610001
 -- 10
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Rood Nike shirt', 1, 1, 4, 2, 18, 'Polyester sport shirt met wit logo groot op de borst.'); -- https://www.wehkamp.nl/nike-sport-t-shirt-rood-16156575/
 -- 11
@@ -68,7 +68,7 @@ insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, 
 -- 14
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Blauw Adidas shirt', 2, 1, 5, 2, 20, 'Katoenen shirt met logo groot op de borst.'); -- https://www.vantilburgonline.nl/jongens/adidas/t-shirts-polo-s/t-shirts/adidas-t-shirt-marine2-gd2679_458645.html
 -- 15
-insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Zwart Stone-Island shirt', 3, 2, 4, 2, 95, 'Katoenen shirt met logo groot op de borst.'); -- https://d180232.wordpress.com/assortiment-2/stone-island/
+insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Zwart Stone Island shirt', 3, 2, 4, 2, 95, 'Katoenen shirt met logo groot op de borst.'); -- https://d180232.wordpress.com/assortiment-2/stone-island/
 -- 16
 insert into products (product_naam, merk_id, maat_id, kleur_id, kledingtype_id, prijs, description) values ('Grijs Puma shirt', 4, 3, 6, 2, 20, 'Katoenen shirt met klein logo links op de borst.'); -- https://www.wehkamp.nl/puma-t-shirt-grijs-16182467/
 -- 17
